@@ -34,7 +34,7 @@
     <img src="_images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Test-README-Template by dadang</h3>
+  <h3 align="center">Test-README-Template by kriswanto</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects! Wow Dadangs
